@@ -1831,8 +1831,17 @@ a.activ {
 .part .part-ls {
 	color: #aaa;
 }
-
-
+.swp-pos {
+	position: relative;
+    top: 0px;
+    background: #f0f0f0;
+}
+.swp-pos2 {
+	position: relative;
+    top: 0px;
+    background: #fff;
+	padding-bottom: 10px;
+}
 
 
 
