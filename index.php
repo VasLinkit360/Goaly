@@ -54,92 +54,346 @@
 		  	
 		  	<!-- Prediction Main Content -->
 		  	<div class="col-xs-12 lm ct pd-0">
-		  		<div class="ct-page">
-					<a href="contest-detail.php">
-					<span style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 0, 0, 0.5); color: rgb(255, 255, 255); padding: 10px 20px; font-size: 20px; letter-spacing: 1px; border-radius: 5px;">Let's Play</span>
-					</a>
-					<div class="head">
-						<div class="col-xs-7 pl-10 pr-5">
-							<div class="left">
-								<img src="img/league/uefa-champions-league.png" height="34" alt=""> 
-								&nbsp; Champions League
+				<div class="swiper-container">
+					<div class="swiper-wrapper">
+					  <div class="swiper-slide">
+						<a href="contest-detail.php">
+							<div>
+								<div class="ct-page">
+									<a href="contest-detail.php">
+									<span style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 0, 0, 0.5); color: rgb(255, 255, 255); padding: 10px 20px; font-size: 20px; letter-spacing: 1px; border-radius: 5px;">Let's Play</span>
+									</a>
+									<div class="head">
+										<div class="col-xs-7 pl-10 pr-5">
+											<div class="left">
+												<img src="img/league/uefa-champions-league.png" height="34" alt=""> 
+												&nbsp; Champions League
+											</div>
+										</div>
+										<div class="col-xs-5 pr-10 pl-10 text-right">
+											<div class="right">
+												<div class="matchdate">Wednesday, 08/05/2019</div>
+												<div class="stadium">
+													Anfield Stadium &nbsp;
+													<img src="img/thumb/ico-stadium.png" alt=""> 
+												</div>
+										  </div>
+										</div>
+									</div>
+
+									<div class="mid2">
+										<div class="col-xs-12 pd-0">
+											<div class="col-xs-3">
+											<a href="team-detail.php">
+												<div class="square">
+													<img src="img/club-liverpool.png" height="60" alt=""> 
+												</div>
+											</a>
+										</div>
+											<div class="col-xs-6 pd-0 text-center">
+											<div class="line">
+												<div class="text-center">
+													<h5>Liverpool &nbsp;&nbsp;Vs&nbsp;&nbsp; Barcelona</h5>
+												</div>
+
+											</div>
+										</div>
+											<div class="col-xs-3">
+											<a href="team-detail.php">
+												<div class="square2 text-right">
+													<img src="img/barcelona.png" height="60" alt=""> 
+												</div>
+											</a>
+										</div>
+											<!--<a href="team-detail.php">
+												<div class="">
+													<img src="img/club-liverpool.png" height="60" alt=""> 
+												</div>
+											</a>
+											<div class="line">
+												<div class="left">
+													<h3>Liverpool</h3>
+												</div>
+												<div class="right">
+													<h3>Barcelona</h3>
+												</div>
+											</div>-->
+										</div>
+										<div class="clearfix"></div>
+									</div>
+
+								</div>
+								<div class="bt-page2">
+									<ul>
+										<li>
+											<strong>Prediction:</strong>  
+											<span class="pre-date text-green"><strong>Start:</strong> 02/05/2019 &nbsp;&nbsp;|&nbsp;&nbsp; <strong>End:</strong> 07/05/2019 </span>
+										</li>
+										<li>
+											<strong>User who play:</strong>  
+											<span class="pre-date">
+												1. Mourinho  (4-2) &nbsp;
+												2. Guardiola (3-1) &nbsp;
+												3. Klop  (4-0) &nbsp;
+											</span>
+										</li>
+										<li class="text-center">
+											<a href="" class="btn btn-who" data-toggle="modal" data-target="#UserPlay">
+												Show Who Play
+											</a>
+										</li>
+									</ul>
+								</div>
 							</div>
-						</div>
-						<div class="col-xs-5 pr-10 pl-10 text-right">
-							<div class="right">
-								<div class="matchdate">Wednesday, 08/05/2019</div>
-								<div class="stadium">
-									Anfield Stadium &nbsp;
-									<img src="img/thumb/ico-stadium.png" alt=""> 
+						</a>
+					  </div>
+					  <div class="swiper-slide">
+						  <a href="contest-detail.php">
+							<div>
+								<div class="ct-page">
+									<a href="contest-detail.php">
+									<span style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 0, 0, 0.5); color: rgb(255, 255, 255); padding: 10px 20px; font-size: 20px; letter-spacing: 1px; border-radius: 5px;">Let's Play</span>
+									</a>
+									<div class="head">
+										<div class="col-xs-7 pl-10 pr-5">
+											<div class="left">
+												<img src="img/league/serie-a.png" height="34" alt=""> 
+												&nbsp; Serie A
+											</div>
+										</div>
+										<div class="col-xs-5 pr-10 pl-10 text-right">
+											<div class="right">
+												<div class="matchdate">Wednesday, 08/05/2019</div>
+												<div class="stadium">
+													Allianz Stadium &nbsp;
+													<img src="img/thumb/ico-stadium.png" alt=""> 
+												</div>
+										  </div>
+										</div>
+									</div>
+
+									<div class="mid2">
+										<div class="col-xs-12 pd-0">
+											<div class="col-xs-3">
+											<a href="team-detail.php">
+												<div class="square">
+													<img src="img/juventus_black.png" height="60" alt=""> 
+												</div>
+											</a>
+										</div>
+											<div class="col-xs-6 pd-0 text-center">
+											<div class="line">
+												<div class="text-center">
+													<h5>Juventus &nbsp;&nbsp;Vs&nbsp;&nbsp; Ac Milan</h5>
+												</div>
+
+											</div>
+										</div>
+											<div class="col-xs-3">
+											<a href="team-detail.php">
+												<div class="square2 text-right">
+													<img src="img/milan.png" height="60" alt=""> 
+												</div>
+											</a>
+										</div>
+										</div>
+										<div class="clearfix"></div>
+									</div>
+
 								</div>
-						  </div>
-						</div>
-					</div>
-					
-					<div class="mid2">
-						<div class="col-xs-12 pd-0">
-							<div class="col-xs-3">
-							<a href="team-detail.php">
-								<div class="square">
-									<img src="img/club-liverpool.png" height="60" alt=""> 
+								<div class="bt-page2">
+									<ul>
+										<li>
+											<strong>Prediction:</strong>  
+											<span class="pre-date text-green"><strong>Start:</strong> 02/05/2019 &nbsp;&nbsp;|&nbsp;&nbsp; <strong>End:</strong> 07/05/2019 </span>
+										</li>
+										<li>
+											<strong>User who play:</strong>  
+											<span class="pre-date">
+												1. Mourinho  (4-2) &nbsp;
+												2. Guardiola (3-1) &nbsp;
+												3. Klop  (4-0) &nbsp;
+											</span>
+										</li>
+										<li class="text-center">
+											<a href="" class="btn btn-who" data-toggle="modal" data-target="#UserPlay">
+												Show Who Play
+											</a>
+										</li>
+									</ul>
 								</div>
-							</a>
-						</div>
-							<div class="col-xs-6 pd-0 text-center">
-							<div class="line">
-								<div class="text-center">
-									<h5>Liverpool &nbsp;&nbsp;Vs&nbsp;&nbsp; Barcelona</h5>
-								</div>
-								
 							</div>
-						</div>
-							<div class="col-xs-3">
-							<a href="team-detail.php">
-								<div class="square2 text-right">
-									<img src="img/barcelona.png" height="60" alt=""> 
+						  </a>
+					  </div>
+					  <div class="swiper-slide">
+						  <a href="contest-detail.php">
+							<div>
+								<div class="ct-page">
+									<a href="contest-detail.php">
+									<span style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 0, 0, 0.5); color: rgb(255, 255, 255); padding: 10px 20px; font-size: 20px; letter-spacing: 1px; border-radius: 5px;">Let's Play</span>
+									</a>
+									<div class="head">
+										<div class="col-xs-7 pl-10 pr-5">
+											<div class="left">
+												<img src="img/league/uefa-champions-league.png" height="34" alt=""> 
+												&nbsp; Champions League
+											</div>
+										</div>
+										<div class="col-xs-5 pr-10 pl-10 text-right">
+											<div class="right">
+												<div class="matchdate">Wednesday, 08/05/2019</div>
+												<div class="stadium">
+													Anfield Stadium &nbsp;
+													<img src="img/thumb/ico-stadium.png" alt=""> 
+												</div>
+										  </div>
+										</div>
+									</div>
+
+									<div class="mid2">
+										<div class="col-xs-12 pd-0">
+											<div class="col-xs-3">
+											<a href="team-detail.php">
+												<div class="square">
+													<img src="img/club-liverpool.png" height="60" alt=""> 
+												</div>
+											</a>
+										</div>
+											<div class="col-xs-6 pd-0 text-center">
+											<div class="line">
+												<div class="text-center">
+													<h5>Liverpool &nbsp;&nbsp;Vs&nbsp;&nbsp; Barcelona</h5>
+												</div>
+
+											</div>
+										</div>
+											<div class="col-xs-3">
+											<a href="team-detail.php">
+												<div class="square2 text-right">
+													<img src="img/barcelona.png" height="60" alt=""> 
+												</div>
+											</a>
+										</div>
+										</div>
+										<div class="clearfix"></div>
+									</div>
+
 								</div>
-							</a>
-						</div>
-							<!--<a href="team-detail.php">
-								<div class="">
-									<img src="img/club-liverpool.png" height="60" alt=""> 
+								<div class="bt-page2">
+									<ul>
+										<li>
+											<strong>Prediction:</strong>  
+											<span class="pre-date text-green"><strong>Start:</strong> 02/05/2019 &nbsp;&nbsp;|&nbsp;&nbsp; <strong>End:</strong> 07/05/2019 </span>
+										</li>
+										<li>
+											<strong>User who play:</strong>  
+											<span class="pre-date">
+												1. Mourinho  (4-2) &nbsp;
+												2. Guardiola (3-1) &nbsp;
+												3. Klop  (4-0) &nbsp;
+											</span>
+										</li>
+										<li class="text-center">
+											<a href="" class="btn btn-who" data-toggle="modal" data-target="#UserPlay">
+												Show Who Play
+											</a>
+										</li>
+									</ul>
 								</div>
-							</a>
-							<div class="line">
-								<div class="left">
-									<h3>Liverpool</h3>
+							</div>
+						  </a>
+					  </div>
+					  <div class="swiper-slide">
+						  <a href="contest-detail.php">
+							<div>
+								<div class="ct-page">
+									<a href="contest-detail.php">
+									<span style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 0, 0, 0.5); color: rgb(255, 255, 255); padding: 10px 20px; font-size: 20px; letter-spacing: 1px; border-radius: 5px;">Let's Play</span>
+									</a>
+									<div class="head">
+										<div class="col-xs-7 pl-10 pr-5">
+											<div class="left">
+												<img src="img/league/serie-a.png" height="34" alt=""> 
+												&nbsp; Serie A
+											</div>
+										</div>
+										<div class="col-xs-5 pr-10 pl-10 text-right">
+											<div class="right">
+												<div class="matchdate">Wednesday, 08/05/2019</div>
+												<div class="stadium">
+													Allianz Stadium &nbsp;
+													<img src="img/thumb/ico-stadium.png" alt=""> 
+												</div>
+										  </div>
+										</div>
+									</div>
+
+									<div class="mid2">
+										<div class="col-xs-12 pd-0">
+											<div class="col-xs-3">
+											<a href="team-detail.php">
+												<div class="square">
+													<img src="img/juventus_black.png" height="60" alt=""> 
+												</div>
+											</a>
+										</div>
+											<div class="col-xs-6 pd-0 text-center">
+											<div class="line">
+												<div class="text-center">
+													<h5>Juventus &nbsp;&nbsp;Vs&nbsp;&nbsp; Ac Milan</h5>
+												</div>
+
+											</div>
+										</div>
+											<div class="col-xs-3">
+											<a href="team-detail.php">
+												<div class="square2 text-right">
+													<img src="img/milan.png" height="60" alt=""> 
+												</div>
+											</a>
+										</div>
+										</div>
+										<div class="clearfix"></div>
+									</div>
+
 								</div>
-								<div class="right">
-									<h3>Barcelona</h3>
+								<div class="bt-page2">
+									<ul>
+										<li>
+											<strong>Prediction:</strong>  
+											<span class="pre-date text-green"><strong>Start:</strong> 02/05/2019 &nbsp;&nbsp;|&nbsp;&nbsp; <strong>End:</strong> 07/05/2019 </span>
+										</li>
+										<li>
+											<strong>User who play:</strong>  
+											<span class="pre-date">
+												1. Mourinho  (4-2) &nbsp;
+												2. Guardiola (3-1) &nbsp;
+												3. Klop  (4-0) &nbsp;
+											</span>
+										</li>
+										<li class="text-center">
+											<a href="" class="btn btn-who" data-toggle="modal" data-target="#UserPlay">
+												Show Who Play
+											</a>
+										</li>
+									</ul>
 								</div>
-							</div>-->
-						</div>
-						<div class="clearfix"></div>
+							</div>
+						  </a>
+					  </div>
+					  <div class="swiper-slide">
+						  <a href="contest-detail.php">
+							  <img src="img/contest.jpg" alt="">
+						  </a>
+					  </div>
 					</div>
-					
+					<!-- Add Arrows -->
+					<!--<div class="swiper-button-next"></div>
+					<div class="swiper-button-prev"></div>-->
+					<!-- Add Pagination -->
+    				<div class="swiper-pagination swp-pos"></div>
 				</div>
-				<div class="bt-page2">
-					<ul>
-						<li>
-							<strong>Prediction:</strong>  
-							<span class="pre-date text-green"><strong>Start:</strong> 02/05/2019 &nbsp;&nbsp;|&nbsp;&nbsp; <strong>End:</strong> 07/05/2019 </span>
-						</li>
-						<li>
-							<strong>User who play:</strong>  
-							<span class="pre-date">
-								1. Mourinho  (4-2) &nbsp;
-								2. Guardiola (3-1) &nbsp;
-								3. Klop  (4-0) &nbsp;
-							</span>
-						</li>
-						<li class="text-center">
-							<a href="" class="btn btn-who" data-toggle="modal" data-target="#UserPlay">
-								Show Who Play
-							</a>
-						</li>
-					</ul>
-				</div>
-		  	</div>
+		 	</div>		  	
 			<div class="clearfix"></div>
 		  
 			<!-- Sports -->
@@ -1118,215 +1372,437 @@
 							<div class="bagian">
 								<h3>Live Matches </h3>
 							</div>
-							<div class="batbat">
-								<div class="part">
-									<div class="col-xs-12 lm mt-10">
-									<h5 class="text-center">24/11/2018 - 18:00 </h5>
-									<h5 class="text-center text-grey">
-										Stadium: ALLIANZ STADIUM - TORINO <br>
-										Referee: FEDERICO LA PENNA
-									</h5>
-									<h5 class="text-center text-blue">FT</h5>
-									<div class="col-xs-6 scrL">
-										<a href="team-detail.php">
-											<img src="img/juventus_black.png" alt="">
-										</a>
-										<span>2</span>
-										<br>
-										<h4 class="tl">Juventus</h4>
-										<p class="text-right text-small text-grey mr-10">
-											Cristiano Ronaldo (29)<br>
-											Mario Mandzukic (65)
-										</p>
-									</div>
-									<div class="col-xs-6 scrR">
-										<span>1</span>
-										<img src="img/milan.png" alt="">
-										<br>
-										<h4 class="tl">Milan</h4>
-										<p class="text-small text-grey ml-10">
-											Piatek (45)
-										</p>
-									</div>
-									<div class="row">
-										<div class="hr"></div>
-									</div>
-									<div class="row cm">
-										<div class="col-xs-3 text-center">
-											<a class="nav-link" id="time-tab" data-toggle="tab" href="#timeline" role="tab">
-												<strong>Timeline</strong>
-											</a>
-										</div>
-										<div class="col-xs-3 text-center">
-											<a class="nav-link" id="line-tab" data-toggle="tab" href="#lineups" role="tab">
-												Line-ups
-											</a>
-										</div>
-										<div class="col-xs-3 text-center">
-											<a class="nav-link" id="stats-tab" data-toggle="tab" href="#stats" role="tab">
-												Stats
-											</a>
-										</div>
-										<div class="col-xs-3 text-center">
-											<a class="nav-link" id="comments-tab" data-toggle="tab" href="#comments" role="tab">
-												Comments
-											</a>
-										</div>
-									</div>
-									<div class="row mt-10">
-										<div class="hr"></div>
-									</div>
-									
-									<div class="tab-content" id="myTabContent">
-										<div class="tab-pane fade p-3 active in" id="timeline" aria-labelledby="time-tab">
-											<div class="timeline">
-												<div class="text-center mb-10">Match Details:</div>
-												<div class="match-row">
-													<div class="tm">30'</div>
-													<div class="pn_home">player_name home</div>
-													<div class="sc"> <span class="card-yellow"></span> </div>
-													<div class="pn_away">&nbsp;</div>
+							
+							<div class="swiper-container">
+								<div class="swiper-wrapper">
+								  <div class="swiper-slide">
+									  <div class="batbat">
+										<div class="part">
+											<div class="col-xs-12 lm mt-10">
+											<h5 class="text-center">24/11/2018 - 18:00 </h5>
+											<h5 class="text-center text-grey">
+												Stadium: ALLIANZ STADIUM - TORINO <br>
+												Referee: FEDERICO LA PENNA
+											</h5>
+											<h5 class="text-center text-blue">FT</h5>
+											<div class="col-xs-6 scrL">
+												<a href="team-detail.php">
+													<img src="img/juventus_black.png" alt="">
+												</a>
+												<span>2</span>
+												<br>
+												<h4 class="tl">Juventus</h4>
+												<p class="text-right text-small text-grey mr-10">
+													Cristiano Ronaldo (29)<br>
+													Mario Mandzukic (65)
+												</p>
+											</div>
+											<div class="col-xs-6 scrR">
+												<span>1</span>
+												<img src="img/milan.png" alt="">
+												<br>
+												<h4 class="tl">Milan</h4>
+												<p class="text-small text-grey ml-10">
+													Piatek (45)
+												</p>
+											</div>
+											<div class="row">
+												<div class="hr"></div>
+											</div>
+											<div class="row cm">
+												<div class="col-xs-3 text-center">
+													<a class="nav-link" id="time-tab" data-toggle="tab" href="#timeline" role="tab">
+														<strong>Timeline</strong>
+													</a>
 												</div>
-												<div class="match-row">
-													<div class="tm">42'</div>
-													<div class="pn_home">&nbsp;</div>
-													<div class="sc"> <span class="red-yellow"></span></div>
-													<div class="pn_away">player_name away</div>
+												<div class="col-xs-3 text-center">
+													<a class="nav-link" id="line-tab" data-toggle="tab" href="#lineups" role="tab">
+														Line-ups
+													</a>
 												</div>
-												<div class="match-row">
-													<div class="tm">48'</div>
-													<div class="pn_home">player_name home</div>
-													<div class="sc"> <span class="card-yellow"></span>&nbsp;<span class="card-yellow"></span> </div>
-													<div class="pn_away">&nbsp;</div>
+												<div class="col-xs-3 text-center">
+													<a class="nav-link" id="stats-tab" data-toggle="tab" href="#stats" role="tab">
+														Stats
+													</a>
 												</div>
-												<div class="match-row">
-													<div class="tm">67'</div>
-													<div class="pn_home">&nbsp;</div>
-													<div class="sc">0 - 1</div>
-													<div class="pn_away">player_name away</div>
+												<div class="col-xs-3 text-center">
+													<a class="nav-link" id="comments-tab" data-toggle="tab" href="#comments" role="tab">
+														Comments
+													</a>
 												</div>
 											</div>
-										</div>
-										<div class="tab-pane fade p-3" id="lineups" aria-labelledby="line-tab">
-											<span class="text-black">LINE UPS </span>
-										</div>
-										<div class="tab-pane fade p-3" id="stats" aria-labelledby="stats-tab">
-											<span class="text-black">Stats </span>
-										</div>
-										<div class="tab-pane fade p-3" id="comments" aria-labelledby="comments-tab">
-											<div class="timeline">
-												<div class="overflow">
-													<ul class="chat">
-														<li class="left clearfix"><span class="chat-img pull-left">
-															<img src="http://placehold.it/50/55C1E7/fff&amp;text=U" alt="User Avatar" class="img-circle">
-														</span>
-															<div class="chat-body clearfix">
-																<div class="header">
-																	<strong class="primary-font">Jack Sparrow</strong> <small class="pull-right text-muted">
-																		<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
-																</div>
-																<p>
-																	Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-																</p>
-															</div>
-														</li>
-														<!--<li class="right clearfix"><span class="chat-img pull-right">
-															<img src="http://placehold.it/50/FA6F57/fff&amp;text=ME" alt="User Avatar" class="img-circle">
-														</span>
-															<div class="chat-body clearfix">
-																<div class="header">
-																	<small class=" text-muted"><span class="glyphicon glyphicon-time"></span>13 mins ago</small>
-																	<strong class="pull-right primary-font">Bhaumik Patel</strong>
-																</div>
-																<p>
-																	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
-																	dolor, quis ullamcorper ligula sodales.
-																</p>
-															</div>
-														</li>-->
-														<li class="left clearfix"><span class="chat-img pull-left">
-															<img src="img/acc-default.png" alt="User Avatar" class="img-circle" height="50">
-														</span>
-															<div class="chat-body clearfix">
-																<div class="header">
-																	<strong class="primary-font">Other Sparrow</strong> <small class="pull-right text-muted">
-																		<span class="glyphicon glyphicon-time"></span>14 mins ago</small>
-																</div>
-																<p>
-																	HAhahahaha
-																</p>
-															</div>
-														</li>
-														<li class="left clearfix"><span class="chat-img pull-left">
-															<img src="img/acc-default2.png" alt="User Avatar" class="img-circle" height="50">
-														</span>
-															<div class="chat-body clearfix">
-																<div class="header">
-																	<strong class="primary-font">Yele Ojo</strong> <small class="pull-right text-muted">
-																		<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
-																</div>
-																<p>
-																	How many  square feet ?  Cost to fabricate ?  Would this be concidered unreenforced concrete ?
-																</p>
-															</div>
-														</li>
-														<li class="left clearfix"><span class="chat-img pull-left">
-															<img src="http://placehold.it/50/55C1E7/fff&amp;text=U" alt="User Avatar" class="img-circle">
-														</span>
-															<div class="chat-body clearfix">
-																<div class="header">
-																	<strong class="primary-font">Jack Sparrow</strong> <small class="pull-right text-muted">
-																		<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
-																</div>
-																<p>
-																	Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-																</p>
-															</div>
-														</li>
-														<li class="left clearfix"><span class="chat-img pull-left">
-															<img src="img/acc-default.png" alt="User Avatar" class="img-circle" height="50">
-														</span>
-															<div class="chat-body clearfix">
-																<div class="header">
-																	<strong class="primary-font">Other Sparrow</strong> <small class="pull-right text-muted">
-																		<span class="glyphicon glyphicon-time"></span>14 mins ago</small>
-																</div>
-																<p>
-																	HAhahahaha
-																</p>
-															</div>
-														</li>
-														<li class="left clearfix"><span class="chat-img pull-left">
-															<img src="img/acc-default2.png" alt="User Avatar" class="img-circle" height="50">
-														</span>
-															<div class="chat-body clearfix">
-																<div class="header">
-																	<strong class="primary-font">Yele Ojo</strong> <small class="pull-right text-muted">
-																		<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
-																</div>
-																<p>
-																	How many  square feet ?  Cost to fabricate ?  Would this be concidered unreenforced concrete ?
-																</p>
-															</div>
-														</li>
-													</ul>
+											<div class="row mt-10">
+												<div class="hr"></div>
+											</div>
+
+											<div class="tab-content" id="myTabContent">
+												<div class="tab-pane fade p-3 active in" id="timeline" aria-labelledby="time-tab">
+													<div class="timeline">
+														<div class="text-center mb-10">Match Details:</div>
+														<div class="match-row">
+															<div class="tm">30'</div>
+															<div class="pn_home">player_name home</div>
+															<div class="sc"> <span class="card-yellow"></span> </div>
+															<div class="pn_away">&nbsp;</div>
+														</div>
+														<div class="match-row">
+															<div class="tm">42'</div>
+															<div class="pn_home">&nbsp;</div>
+															<div class="sc"> <span class="red-yellow"></span></div>
+															<div class="pn_away">player_name away</div>
+														</div>
+														<div class="match-row">
+															<div class="tm">48'</div>
+															<div class="pn_home">player_name home</div>
+															<div class="sc"> <span class="card-yellow"></span>&nbsp;<span class="card-yellow"></span> </div>
+															<div class="pn_away">&nbsp;</div>
+														</div>
+														<div class="match-row">
+															<div class="tm">67'</div>
+															<div class="pn_home">&nbsp;</div>
+															<div class="sc">0 - 1</div>
+															<div class="pn_away">player_name away</div>
+														</div>
+													</div>
 												</div>
-												<div class="panel-footer">
-													<div class="input-group">
-														<input id="btn-input" type="text" class="form-control input-sm form-chat" placeholder="Type your message here...">
-														<span class="input-group-btn">
-															<button class="btn btn-warning btn-sm" id="btn-chat">
-																Send</button>
-														</span>
+												<div class="tab-pane fade p-3" id="lineups" aria-labelledby="line-tab">
+													<span class="text-black">LINE UPS </span>
+												</div>
+												<div class="tab-pane fade p-3" id="stats" aria-labelledby="stats-tab">
+													<span class="text-black">Stats </span>
+												</div>
+												<div class="tab-pane fade p-3" id="comments" aria-labelledby="comments-tab">
+													<div class="timeline">
+														<div class="overflow">
+															<ul class="chat">
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="http://placehold.it/50/55C1E7/fff&amp;text=U" alt="User Avatar" class="img-circle">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Jack Sparrow</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
+																		</div>
+																		<p>
+																			Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+																		</p>
+																	</div>
+																</li>
+																<!--<li class="right clearfix"><span class="chat-img pull-right">
+																	<img src="http://placehold.it/50/FA6F57/fff&amp;text=ME" alt="User Avatar" class="img-circle">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<small class=" text-muted"><span class="glyphicon glyphicon-time"></span>13 mins ago</small>
+																			<strong class="pull-right primary-font">Bhaumik Patel</strong>
+																		</div>
+																		<p>
+																			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
+																			dolor, quis ullamcorper ligula sodales.
+																		</p>
+																	</div>
+																</li>-->
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="img/acc-default.png" alt="User Avatar" class="img-circle" height="50">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Other Sparrow</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>14 mins ago</small>
+																		</div>
+																		<p>
+																			HAhahahaha
+																		</p>
+																	</div>
+																</li>
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="img/acc-default2.png" alt="User Avatar" class="img-circle" height="50">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Yele Ojo</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
+																		</div>
+																		<p>
+																			How many  square feet ?  Cost to fabricate ?  Would this be concidered unreenforced concrete ?
+																		</p>
+																	</div>
+																</li>
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="http://placehold.it/50/55C1E7/fff&amp;text=U" alt="User Avatar" class="img-circle">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Jack Sparrow</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
+																		</div>
+																		<p>
+																			Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+																		</p>
+																	</div>
+																</li>
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="img/acc-default.png" alt="User Avatar" class="img-circle" height="50">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Other Sparrow</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>14 mins ago</small>
+																		</div>
+																		<p>
+																			HAhahahaha
+																		</p>
+																	</div>
+																</li>
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="img/acc-default2.png" alt="User Avatar" class="img-circle" height="50">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Yele Ojo</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
+																		</div>
+																		<p>
+																			How many  square feet ?  Cost to fabricate ?  Would this be concidered unreenforced concrete ?
+																		</p>
+																	</div>
+																</li>
+															</ul>
+														</div>
+														<div class="panel-footer">
+															<div class="input-group">
+																<input id="btn-input" type="text" class="form-control input-sm form-chat" placeholder="Type your message here...">
+																<span class="input-group-btn">
+																	<button class="btn btn-warning btn-sm" id="btn-chat">
+																		Send</button>
+																</span>
+															</div>
+														</div>
 													</div>
 												</div>
 											</div>
 										</div>
+											<div class="clearfix"></div>
+										</div>
 									</div>
+								  </div>
+								  <div class="swiper-slide">
+									  <div class="batbat">
+										<div class="part">
+											<div class="col-xs-12 lm mt-10">
+											<h5 class="text-center">24/11/2018 - 18:00 </h5>
+											<h5 class="text-center text-grey">
+												Stadium: ALLIANZ STADIUM - TORINO <br>
+												Referee: FEDERICO LA PENNA
+											</h5>
+											<h5 class="text-center text-blue">FT</h5>
+											<div class="col-xs-6 scrL">
+												<a href="team-detail.php">
+													<img src="img/juventus_black.png" alt="">
+												</a>
+												<span>2</span>
+												<br>
+												<h4 class="tl">Juventus</h4>
+												<p class="text-right text-small text-grey mr-10">
+													Cristiano Ronaldo (29)<br>
+													Mario Mandzukic (65)
+												</p>
+											</div>
+											<div class="col-xs-6 scrR">
+												<span>1</span>
+												<img src="img/milan.png" alt="">
+												<br>
+												<h4 class="tl">Milan</h4>
+												<p class="text-small text-grey ml-10">
+													Piatek (45)
+												</p>
+											</div>
+											<div class="row">
+												<div class="hr"></div>
+											</div>
+											<div class="row cm">
+												<div class="col-xs-3 text-center">
+													<a class="nav-link" id="time-tab" data-toggle="tab" href="#timeline" role="tab">
+														<strong>Timeline</strong>
+													</a>
+												</div>
+												<div class="col-xs-3 text-center">
+													<a class="nav-link" id="line-tab" data-toggle="tab" href="#lineups" role="tab">
+														Line-ups
+													</a>
+												</div>
+												<div class="col-xs-3 text-center">
+													<a class="nav-link" id="stats-tab" data-toggle="tab" href="#stats" role="tab">
+														Stats
+													</a>
+												</div>
+												<div class="col-xs-3 text-center">
+													<a class="nav-link" id="comments-tab" data-toggle="tab" href="#comments" role="tab">
+														Comments
+													</a>
+												</div>
+											</div>
+											<div class="row mt-10">
+												<div class="hr"></div>
+											</div>
+
+											<div class="tab-content" id="myTabContent">
+												<div class="tab-pane fade p-3 active in" id="timeline" aria-labelledby="time-tab">
+													<div class="timeline">
+														<div class="text-center mb-10">Match Details:</div>
+														<div class="match-row">
+															<div class="tm">30'</div>
+															<div class="pn_home">player_name home</div>
+															<div class="sc"> <span class="card-yellow"></span> </div>
+															<div class="pn_away">&nbsp;</div>
+														</div>
+														<div class="match-row">
+															<div class="tm">42'</div>
+															<div class="pn_home">&nbsp;</div>
+															<div class="sc"> <span class="red-yellow"></span></div>
+															<div class="pn_away">player_name away</div>
+														</div>
+														<div class="match-row">
+															<div class="tm">48'</div>
+															<div class="pn_home">player_name home</div>
+															<div class="sc"> <span class="card-yellow"></span>&nbsp;<span class="card-yellow"></span> </div>
+															<div class="pn_away">&nbsp;</div>
+														</div>
+														<div class="match-row">
+															<div class="tm">67'</div>
+															<div class="pn_home">&nbsp;</div>
+															<div class="sc">0 - 1</div>
+															<div class="pn_away">player_name away</div>
+														</div>
+													</div>
+												</div>
+												<div class="tab-pane fade p-3" id="lineups" aria-labelledby="line-tab">
+													<span class="text-black">LINE UPS </span>
+												</div>
+												<div class="tab-pane fade p-3" id="stats" aria-labelledby="stats-tab">
+													<span class="text-black">Stats </span>
+												</div>
+												<div class="tab-pane fade p-3" id="comments" aria-labelledby="comments-tab">
+													<div class="timeline">
+														<div class="overflow">
+															<ul class="chat">
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="http://placehold.it/50/55C1E7/fff&amp;text=U" alt="User Avatar" class="img-circle">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Jack Sparrow</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
+																		</div>
+																		<p>
+																			Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+																		</p>
+																	</div>
+																</li>
+																<!--<li class="right clearfix"><span class="chat-img pull-right">
+																	<img src="http://placehold.it/50/FA6F57/fff&amp;text=ME" alt="User Avatar" class="img-circle">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<small class=" text-muted"><span class="glyphicon glyphicon-time"></span>13 mins ago</small>
+																			<strong class="pull-right primary-font">Bhaumik Patel</strong>
+																		</div>
+																		<p>
+																			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
+																			dolor, quis ullamcorper ligula sodales.
+																		</p>
+																	</div>
+																</li>-->
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="img/acc-default.png" alt="User Avatar" class="img-circle" height="50">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Other Sparrow</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>14 mins ago</small>
+																		</div>
+																		<p>
+																			HAhahahaha
+																		</p>
+																	</div>
+																</li>
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="img/acc-default2.png" alt="User Avatar" class="img-circle" height="50">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Yele Ojo</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
+																		</div>
+																		<p>
+																			How many  square feet ?  Cost to fabricate ?  Would this be concidered unreenforced concrete ?
+																		</p>
+																	</div>
+																</li>
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="http://placehold.it/50/55C1E7/fff&amp;text=U" alt="User Avatar" class="img-circle">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Jack Sparrow</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
+																		</div>
+																		<p>
+																			Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+																		</p>
+																	</div>
+																</li>
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="img/acc-default.png" alt="User Avatar" class="img-circle" height="50">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Other Sparrow</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>14 mins ago</small>
+																		</div>
+																		<p>
+																			HAhahahaha
+																		</p>
+																	</div>
+																</li>
+																<li class="left clearfix"><span class="chat-img pull-left">
+																	<img src="img/acc-default2.png" alt="User Avatar" class="img-circle" height="50">
+																</span>
+																	<div class="chat-body clearfix">
+																		<div class="header">
+																			<strong class="primary-font">Yele Ojo</strong> <small class="pull-right text-muted">
+																				<span class="glyphicon glyphicon-time"></span>12 mins ago</small>
+																		</div>
+																		<p>
+																			How many  square feet ?  Cost to fabricate ?  Would this be concidered unreenforced concrete ?
+																		</p>
+																	</div>
+																</li>
+															</ul>
+														</div>
+														<div class="panel-footer">
+															<div class="input-group">
+																<input id="btn-input" type="text" class="form-control input-sm form-chat" placeholder="Type your message here...">
+																<span class="input-group-btn">
+																	<button class="btn btn-warning btn-sm" id="btn-chat">
+																		Send</button>
+																</span>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								  </div>
 								</div>
-									<div class="clearfix"></div>
-								</div>
+								<!-- Add Pagination -->
+    							<div class="swiper-pagination swp-pos2"></div>
 							</div>
+							
+							
 						</div>
 					</div>
 					
