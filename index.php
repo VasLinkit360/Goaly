@@ -437,7 +437,8 @@
 									</li>
 								  </ul>
 								</div>
-								<div class="tab-content" id="myTabContent">
+								<div class="scrollbar scrollbar-primary">
+									<div class="tab-content" id="myTabContent">
 								  <div class="tab-pane fade p-3 active in" id="one" aria-labelledby="one-tab">
 										<div class="part">
 											<div class="part-team">
@@ -1262,6 +1263,7 @@
 										<div class="clearfix"></div>
 									  </div>
 								  </div>
+								</div>
 								</div>
 							</div>
 						</div>
