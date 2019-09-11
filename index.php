@@ -53,7 +53,7 @@
 		  	</div>-->
 		  	
 		  	<!-- If Fav Clubs selected -->
-		  	<div class="col-xs-12 pd-0">
+		  	<div class="col-xs-12 pd-0">  
 				<div class="new-ct">
 					<div class="lf">
 						My Team
