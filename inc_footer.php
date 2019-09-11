@@ -215,3 +215,14 @@ jQuery('.carousel').bind('slid.bs.carousel', function (event) {
    jQuery(".controls").fadeIn(500);
 });
 	</script>
+
+<script>
+	$('.hddn').click(function(){
+		$(this).text(function(i,old){
+			return old=='+' ?  '-' : '+';
+		});
+	});
+</script>
+
+
+

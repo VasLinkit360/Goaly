@@ -44,16 +44,43 @@
 			<div class="clearfix"></div>
 		  	
 		  	<!-- Fav Clubs -->
-		  	<div class="col-xs-12 lm ct mb-10" style="padding: 10px 5px">
+		  	<!--<div class="col-xs-12 lm ct" style="padding: 10px 5px">
 		  		<div class="col-xs-12 pl-5 pr-5  text-center">
 					<a href="" class="wd100" data-toggle="modal" data-target="#AddFavClubs">
 						<img src="img/tm-add-2.png" alt=""/> 
 					</a>
 				</div>
+		  	</div>-->
+		  	
+		  	<!-- If Fav Clubs selected -->
+		  	<div class="col-xs-12 pd-0">
+				<div class="new-ct">
+					<div class="lf">
+						My Team
+					</div>
+					<div class="rg">
+						 <a class="hddn" data-toggle="collapse" data-target="#intro">+</a>
+					</div>
+					
+					<div id="intro" class="collapse">
+						<div class="liner2"></div>
+						<div class="col-xs-4">
+							<img src="img/barcelona.png" alt=""/> 
+						</div>
+						<div class="col-xs-4">
+							<img src="img/juventus_black.png" alt=""/> 
+						</div>
+						<div class="col-xs-4">
+							<a href="" data-toggle="modal" data-target="#AddFavClubs">
+								<img src="img/tm-add.png" alt=""/> 
+							</a>
+						</div>
+					</div> 
+				</div>
 		  	</div>
 		  	
 		  	<!-- Prediction Main Content -->
-		  	<div class="col-xs-12 lm ct pd-0">
+		  	<div class="col-xs-12 lm ct pd-0 mt-10">
 				<div class="swiper-container">
 					<div class="swiper-wrapper">
 					  <div class="swiper-slide">
